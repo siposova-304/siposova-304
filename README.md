@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 bc1q7ya2phr92zg93zjhukpdy2x4ewcfkd2p3dyc0h
+https://app.koinly.io/p/transactions?id=20C6161F9EE9392FC049592A0090F3F6
